@@ -60,3 +60,8 @@ Oh, don't worry abt it right now!
 Content that comes inside the html tag / the component comes here.
 In the above example, "Hey there!" is the child.  
 > FYI: it can have expressions too.. We'll come to it later!
+
+### Links to cement the above concepts:  
+https://reactjs.org/docs/hello-world.html    
+https://reactjs.org/docs/introducing-jsx.html    
+https://reactjs.org/docs/rendering-elements.html  
