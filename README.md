@@ -2,7 +2,16 @@
 
 ## First things first.
 ### What does ReactDOM.render do?  
-> [WIP]
+Signature --  
+```js
+ReactDOM.render(whatToRender, whereToRender)
+```  
+It accepts 2 arguments.  
+1. what to render -- an html element or a react component  
+2. where to render -- in your base html, where to put the above component. It should have a home to stay afterall!  
+This basically means, you must have a div or something of that sort which can provide place for the component you've created or just any html to stay in. **A generous div!**   
+Well, we can locate it by id or querySelector or whatever!  
+
 ### What does React.createElement do?
 Signature -- 
 ```js 
